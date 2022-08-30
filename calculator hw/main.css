@@ -1,0 +1,32 @@
+body{
+    background:url("http://img.freepik.com/free-photo/dark-wall-empty-room-with-plants-floor-3d-rendering_41470-3847.jpg?w=740") ;
+
+    /* background-image: url("plant.jpg"); */
+    background-size:cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100%;
+    width:100% ;
+}
+
+.nav-color{
+    background-color: rgb(235, 145, 28);
+}
+
+/* body{
+    background-color: rgb(128, 110, 87) !important;
+}  */
+
+.font{
+    font-size: 29px;
+    font-display: bold;
+}
+
+h2, h4{
+    border: 2px solid grey;
+    border-radius: 20px;
+    text-align: center;
+    background-color: rgb(241, 153, 38);
+}
+
+
